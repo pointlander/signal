@@ -14,3 +14,17 @@ http://www.bitscope.com/product/BS05/
 http://liquidsdr.org/blog/pll-howto/  
 http://liquidsdr.org/doc/ampmodem/  
 http://liquidsdr.org/doc/freqmodem/
+
+# SDR
+http://oh2bsc.com/2015/02/17/getting-started-with-sdr-radio-using-dvb-t-usb-dongle-and-gqrx/  
+http://gqrx.dk/doc/practical-tricks-and-tips#use  
+http://www.radioforeveryone.com/p/review-ham-it-up-v13.html  
+https://ranous.files.wordpress.com/2018/02/rtl-sdr4linux_quickstartv2-18.pdf  
+http://www.hagensieker.com/blog/page/?post_id=68&title=how-to-use-an-upconverter-with-sdr-in-gqrx  
+http://www.jlrg.org/docs/presentations/Intro%20to%20the%20RTL-SDR%20-%20KF4OD.pdf  
+
+# AM antenna
+https://danielpocock.com/building-loop-antenna-sdr-shortwave-ham-oscal17 
+http://www.sdrplay.com/community/viewtopic.php?t=395  
+https://www.rtl-sdr.com/forum/viewtopic.php?f=7&t=313  
+https://en.wikipedia.org/wiki/Impedance_matching  
