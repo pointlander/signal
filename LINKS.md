@@ -28,3 +28,7 @@ https://danielpocock.com/building-loop-antenna-sdr-shortwave-ham-oscal17
 http://www.sdrplay.com/community/viewtopic.php?t=395  
 https://www.rtl-sdr.com/forum/viewtopic.php?f=7&t=313  
 https://en.wikipedia.org/wiki/Impedance_matching  
+
+# Stochastic resonance - radio applications?
+https://en.wikipedia.org/wiki/Stochastic_resonance  
+https://news.ycombinator.com/item?id=16560336  
