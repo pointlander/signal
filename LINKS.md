@@ -38,3 +38,11 @@ https://www.rtl-sdr.com/tag/noise-reduction/
 https://www.rtl-sdr.com/sdr-noise-reduction-plugins-updated-sdr-console-testing-deep-learning-noise-reduction/  
 https://jmvalin.dreamwidth.org/15210.html  
 https://people.xiph.org/~jm/demo/rnnoise/  
+
+# GQRX on RP3
+https://github.com/csete/gqrx/issues/478  
+
+# Using WIFI as software radio
+https://news.ycombinator.com/item?id=16589703  
+https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio  
+
